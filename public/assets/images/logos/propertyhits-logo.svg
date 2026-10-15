@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 140" fill="none">
+  <!-- PropertyHits.co.id Official Brand Vector -->
+  <!-- Left Building / Tower Monogram -->
+  <g fill="#0B2068">
+    <!-- Main Left Skyscraper Tower with Angled Crown -->
+    <path d="M12 112V34.5L42 22V112H12Z" />
+    <!-- Two Slanted Parallel Louvers / Chevron Steps -->
+    <path d="M54 62L82 46V61L54 77V62Z" />
+    <path d="M54 94L82 78V93L54 109V94Z" />
+    <!-- Right Upright Support Pillar -->
+    <path d="M96 38H118V112H96V38Z" />
+  </g>
+
+  <!-- Wordmark: Property Hits .co.id -->
+  <g fill="#0B2068">
+    <!-- "Property" -->
+    <text x="138" y="66" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="44" letter-spacing="-0.03em">Property</text>
+    <!-- "Hits" -->
+    <text x="138" y="106" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-weight="900" font-size="38" letter-spacing="-0.02em">Hits</text>
+  </g>
+
+  <!-- Pill Capsule for ".co.id" -->
+  <g transform="translate(236, 76)">
+    <rect width="112" height="34" rx="17" fill="#0B2068" />
+    <text x="56" y="23" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-weight="800" font-size="20" text-anchor="middle" letter-spacing="-0.02em">.co.id</text>
+  </g>
+</svg>

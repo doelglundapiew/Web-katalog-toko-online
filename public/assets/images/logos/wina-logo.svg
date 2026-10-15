@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 180" fill="none">
+  <!-- WINA Official Brand Vector Logo -->
+  <!-- Blue Barrel Outer Capsule -->
+  <path d="M 38 42 C 78 35, 230 35, 272 42 C 288 64, 288 116, 272 138 C 230 145, 78 145, 38 138 C 22 116, 22 64, 38 42 Z" fill="#0C3C9E" />
+  
+  <!-- White Center Ellipse -->
+  <ellipse cx="155" cy="90" rx="100" ry="43" fill="#FFFFFF" />
+
+  <!-- Stylized Italic "WINA" Wordmark in Blue -->
+  <g transform="skewX(-14) translate(36, 0)">
+    <text x="165" y="108" fill="#0C3C9E" font-family="'Arial Black', 'Impact', sans-serif" font-weight="900" font-size="56" font-style="italic" letter-spacing="-0.04em" text-anchor="middle">WINA</text>
+  </g>
+
+  <!-- Registered Trademark (R) Symbol -->
+  <g transform="translate(290, 36)" stroke="#0C3C9E" stroke-width="2.5" fill="none">
+    <circle cx="10" cy="10" r="9" />
+    <text x="10" y="14" fill="#0C3C9E" stroke="none" font-family="system-ui, sans-serif" font-weight="900" font-size="11" text-anchor="middle">R</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 220" fill="none">
+  <!-- LUCKY Official Brand Vector Logo -->
+  <g fill="#073B9E" stroke="#073B9E">
+    <!-- Outer Curved Barrel Frame -->
+    <path d="M 45 45 C 95 36, 225 36, 275 45 C 292 68, 292 102, 275 125 C 225 134, 95 134, 45 125 C 28 102, 28 68, 45 45 Z" fill="none" stroke-width="14" stroke-linejoin="round" />
+    
+    <!-- Top-Right Inward Arch (Upper 69 Wave) -->
+    <path d="M 160 40 C 160 80, 260 82, 274 76" fill="none" stroke-width="13" stroke-linecap="round" />
+
+    <!-- Bottom-Left Inward Arch (Lower 69 Wave) -->
+    <path d="M 160 130 C 160 90, 60 88, 46 94" fill="none" stroke-width="13" stroke-linecap="round" />
+  </g>
+
+  <!-- Wordmark: LUCKY -->
+  <text x="160" y="196" fill="#073B9E" font-family="'Times New Roman', 'Georgia', serif" font-weight="900" font-size="46" letter-spacing="0.08em" text-anchor="middle">LUCKY</text>
+</svg>

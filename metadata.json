@@ -1,0 +1,6 @@
+{
+  "name": "PropertyHits",
+  "description": "Distributor resmi komponen rel dan roda pintu garasi sliding & folding WINA dan LUCKY. Melayani pesanan proyek dan eceran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
